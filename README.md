@@ -1,4 +1,24 @@
-## Hi there 👋
+## Hi! There is Misaka13548
+
+![1](1.png)
+
+车万入 / 懒癌晚期 / 笨蛋
+
+<br>
+
+### Tech Stacks : 
+
+**C / C++**
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **Misaka13548/Misaka13548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
